@@ -1,3 +1,0 @@
-ammo_cap=30
-ammo_1=545_39
-ammo_end=end

@@ -1,5 +1,0 @@
-ammo_cal(mm)=5.56
-ammo_speed(m/s)=940
-ammo_pene(mm)=30
-ammo_damage=12
-ammo_g(gram)=12

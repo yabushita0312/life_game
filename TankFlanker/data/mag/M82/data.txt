@@ -1,3 +1,0 @@
-ammo_cap=10
-ammo_1=50cal
-ammo_end=end

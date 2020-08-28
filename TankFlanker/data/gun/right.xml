@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<BoneTemplate2>
-    <Bone id="23" name="RIGHT" pos="-0.0199999996,-0.0399999991,-0.0700000003" color="300bca"/>
-    <Bone id="24" name="bone24" parent="23" pos="-0.0199999996,-0.0700000003,-0" color="4990a5"/>
-</BoneTemplate2>
